@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rick And Morty</string>
+    <string name="nav_home">Inicio</string>
+    <string name="app_title">Rick y Morty</string>
+    <string name="nav_characters">Personajes</string>
+    <string name="nav_search">Buscar Personaje</string>
+    <string name="nav_episodes">Episodios</string>
+    <string name="nav_details">Detalles Personaje</string>
+
+    <!-- RECURSOS PERSONAJES -->
+    <string name="character_message_gender">Género :</string>
+    <string name="character_message_specie">Especie :</string>
+    <string name="character_message_location">Ubicación :</string>
+    <string name="character_message_status_alive">Vivo</string>
+    <string name="character_message_status_dead">Muerto</string>
+    <string name="character_message_status_unknow">Desconocido</string>
+    <string name="search_character_message_button">Buscar</string>
+    <string name="search_character_message_search_bar">Buscar Personaje ...</string>
+    <string name="search_character_message_not_items">No hay personajes</string>
+
+    <!-- RECURSOS GLOBALES -->
+    <string name="global_message_no_internet">Sin conexión a Internet</string>
+    <string name="global_message_internet_failure">Falla de red</string>
+    <string name="global_message_loading_resource">Cargando ...</string>
+    <string name="global_message_no_more_pages">No hay más páginas</string>
+
+</resources>
